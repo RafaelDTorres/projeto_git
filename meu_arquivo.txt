@@ -1,1 +1,2 @@
 Conteúdo do arquivo
+Linha escrita na outra branch
